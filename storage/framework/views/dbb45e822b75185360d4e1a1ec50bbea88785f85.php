@@ -1,0 +1,1 @@
+Transaction complete<?php /**PATH C:\xampp\htdocs\PROJECT WEBPROG\project\resources\views/success.blade.php ENDPATH**/ ?>
